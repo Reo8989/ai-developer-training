@@ -1,0 +1,12 @@
+# 秘密情報（将来使うので、存在する前から書いておく）
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# OSが自動生成するもの（Mac）
+.DS_Store
+
+# エディタ
+.vscode/
